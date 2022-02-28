@@ -34,10 +34,10 @@ Start your Bot in Telegram & Enjoy
 ##### Required Variables
 
 - `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
-- `MDISK_TOKEN`: Your MDisk API key Get it from [@VideoToolMoneyTree_bot](https://telegram.dog/VideoToolMoneyTree_bot)
+- `MDISK_TOKEN`: Your MDisk API key Get it from [@VideoToolMoneyTreebot](https://telegram.dog/VideoToolMoneyTreebot)
 
 `API ID` & `API HASH` Get your own 🤗 from https://my.telegram.org
 
 ##### Credit
 
-- Me [Shashwat-Shukla](https://github.com/Shashwat-Shukla) For This Repo
+- Me [Mr Killer 1109](https://github.com/harshil8981) For This Repo
